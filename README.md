@@ -46,5 +46,5 @@ proprietary database format.
 ### Todo App
 
 Todoist. It's minimal enough and has enough features for most people, including
-me. I usually use it write stuff down when it comes to my head so I can use my
-brain for other things. I like it. It works on MacOS and iPhone.
+me. I usually use it to write stuff down when it comes to my head so I can use my
+brain power for other things. I like it. It works on MacOS and iPhone.
