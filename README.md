@@ -21,7 +21,7 @@ Neovim. I don't want a million popups blocking my work and interrupting my train
 of thought. I have a minimal setup that _works for me_. See [my GitHub
 repo](https://www.github.com/josh-guzman/nvim) for details.
 
-### Music
+### Music Player
 
 Spotify. It can be slow and annoying but it works and that's what I'm used to.
 
